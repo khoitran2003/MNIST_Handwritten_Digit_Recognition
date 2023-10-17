@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Here is my python source code for MNIST hand-written digit recognition. With my code: 
+Here is my Python source code for MNIST hand-written digit recognition. With my code: 
 * **With handwritten input of numbers from 0 - 9, the computer can predict with 98.8% accuracy**
-* **Implementation of CNN to recognize hand written digits (MNIST) running for 10 epochs**
+* **Implementation of CNN to recognize handwritten digits (MNIST) running for 10 epochs**
 
 ## Result
 
